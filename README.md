@@ -24,10 +24,8 @@ This repository contains the solution to the car price forecasting competition e
 ---
 
 ## Repository Structure  
-- `notebooks/`: Contains Jupyter Notebooks for EDA, feature engineering, and model building.  
-- `data/`: Includes the training and test datasets (`train.csv` and `test.csv`).  
-- `submissions/`: Stores submission files for the leaderboard (`submission.csv`).  
-- `README.md`: Documentation for the repository.  
+- `notebooks/`: Contains Jupyter Notebooks for EDA, feature engineering, and model building.
+-  `README.md`: Documentation for the repository.  
 
 ---
 
